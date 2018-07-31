@@ -7,3 +7,5 @@
 /*.lck
 /*.log
 /log/
+/.gradle/
+/gradle/
